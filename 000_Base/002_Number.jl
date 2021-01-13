@@ -5,6 +5,7 @@ q=Core.Number(0)
 w(x)=(println(".",typeof(x),"=",x);x;)
 w|>w
 Core.Number(0)|>w
+#w(Core.Number(0))
 Core.Real(8)|>w
 
 #Получение супер типа типа или родительского класса
