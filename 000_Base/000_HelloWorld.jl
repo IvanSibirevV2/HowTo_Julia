@@ -1,5 +1,5 @@
 println("HelloWorld!")
-println("Hello, World!")
+"Hello, World!"|>println
 println(VERSION)
 println("////////////////////")
 println("System.Types")
