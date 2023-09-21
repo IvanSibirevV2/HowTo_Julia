@@ -1,0 +1,3 @@
+Установка пакета для юпитера
+using Pkg
+Pkg.add("IJulia")
